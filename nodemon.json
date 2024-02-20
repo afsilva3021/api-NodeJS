@@ -1,0 +1,8 @@
+{ 
+    "env": {
+        "MYSQL_HOST": "localhost",
+        "MYSQL_DATABASE": "AlocSistem",
+        "MYSQL_USER": "root",
+        "MYSQL_PASSWORD": "Megadriver@5533"
+    }
+}
